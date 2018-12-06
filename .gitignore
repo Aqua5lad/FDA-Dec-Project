@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # Image files
-.Boxplot Cholesterol.png
+.Boxplot-Cholesterol.png
 
 
